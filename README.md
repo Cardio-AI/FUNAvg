@@ -10,11 +10,12 @@ Paper link:
 
 Federated learning is one popular paradigm to train a joint model in a distributed, privacy-preserving environment. 
 But partial annotations pose an obstacle meaning that categories of labels are heterogeneous over clients.
-We propose to learn a joint backbone in a federated manner while each site receives its own multi-label segmentation head.
+We propose to learn a joint backbone in a federated manner, while each site receives its own multi-label segmentation head.
 By using Bayesian techniques we observe that the different segmentation heads although only trained on the individual client's labels also learn information about the other labels not present at the respective site. 
 This information is encoded in their predictive uncertainty.
 To obtain a final prediction we leverage this uncertainty and perform a weighted averaging of the ensemble of distributed segmentation heads, which allows us to segment "locally unknown" structures.
-With our method, which we refer to as FUNAvg, we even outperform models trained and tested on the same dataset on average (0.868 vs. 0.848 DICE).
+With our method, which we refer to as FUNAvg, we are even on-par with the models trained and tested on the same dataset on average. 
+The code is publicly available
 
 ## BibTeX
 
