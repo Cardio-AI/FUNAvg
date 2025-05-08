@@ -4,7 +4,7 @@ Malte Tölle, Fernando Navarro, Sebastian Eble, Ivo Wolf, Bjoern Menze, Sandy En
 
 Code for paper accepted at MICCAI 2024.
 
-Paper link: 
+[Paper link](https://papers.miccai.org/miccai-2024/345-Paper1396.html)
 
 ## Abstract
 
@@ -21,13 +21,14 @@ The code is publicly available
 
 ```
 @inproceedings{toelle2024funavg,
-    title={FUNAvg: Federated Uncertainty Weighted Averaging for Datasets with Diverse Labels},
-    author={T{\"o}lle, Malte and Navarro, Fernando and Eble, Sebastian and Wolf, Ivo and Menze, Bjoern and Engelhardt, Sandy},
-    booktitle={Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-    volume={},
-    pages={},
-    year={2024},
-    doi={}
+        author = { Tölle, Malte and Navarro, Fernando and Eble, Sebastian and Wolf, Ivo and Menze, Bjoern and Engelhardt, Sandy},
+        title = { { FUNAvg: Federated Uncertainty Weighted Averaging for Datasets with Diverse Labels } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
+        year = {2024},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15010},
+        month = {October},
+        page = {405 -- 415}
 }
 ```
 
@@ -37,6 +38,6 @@ Malte Tölle<br>
 [malte.toelle@med.uni-heidelberg.de](mailto:malte.toelle@med.uni-heidelberg.de)<br>
 [@maltetoelle](https://x.com/maltetoelle)<br>
 
-Group Artificial Intelligence in Cardiovascular Medicine (AICM)<br>
+[Group Artificial Intelligence in Cardiovascular Medicine (AICM)](https://www.klinikum.uni-heidelberg.de/chirurgische-klinik-zentrum/herzchirurgie/forschung/ag-artificial-intelligence-in-cardiovascular-medicine)<br>
 Heidelberg University Hospital<br>
 Im Neuenheimer Feld 410, 69120 Heidelberg, Germany
